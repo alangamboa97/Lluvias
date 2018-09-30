@@ -1,0 +1,11 @@
+/home/alan/Documentos/Escuela/Analisis/LLuvias/bin/Debug/netcoreapp2.1/LLuvias.deps.json
+/home/alan/Documentos/Escuela/Analisis/LLuvias/bin/Debug/netcoreapp2.1/LLuvias.runtimeconfig.json
+/home/alan/Documentos/Escuela/Analisis/LLuvias/bin/Debug/netcoreapp2.1/LLuvias.runtimeconfig.dev.json
+/home/alan/Documentos/Escuela/Analisis/LLuvias/bin/Debug/netcoreapp2.1/LLuvias.dll
+/home/alan/Documentos/Escuela/Analisis/LLuvias/bin/Debug/netcoreapp2.1/LLuvias.pdb
+/home/alan/Documentos/Escuela/Analisis/LLuvias/obj/Debug/netcoreapp2.1/LLuvias.csprojAssemblyReference.cache
+/home/alan/Documentos/Escuela/Analisis/LLuvias/obj/Debug/netcoreapp2.1/LLuvias.csproj.CoreCompileInputs.cache
+/home/alan/Documentos/Escuela/Analisis/LLuvias/obj/Debug/netcoreapp2.1/LLuvias.AssemblyInfoInputs.cache
+/home/alan/Documentos/Escuela/Analisis/LLuvias/obj/Debug/netcoreapp2.1/LLuvias.AssemblyInfo.cs
+/home/alan/Documentos/Escuela/Analisis/LLuvias/obj/Debug/netcoreapp2.1/LLuvias.dll
+/home/alan/Documentos/Escuela/Analisis/LLuvias/obj/Debug/netcoreapp2.1/LLuvias.pdb
